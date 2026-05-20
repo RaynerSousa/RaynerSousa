@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="./imagens/github-header-banner.png" alt="Banner Rayner" width="100%" />
+  <img src="./github-header-banner.png" alt="Banner Rayner" width="100%" />
 </p>
+
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Front-end em constante evolução, apaixonado por tecnologia, interfaces modernas e criação de soluções digitais que unem desempenho, organização e boa experiência do usuário. Atualmente curso Técnico em Redes de Computadores na EEEP Rita Aguiar Barbosa e também participo de formações voltadas ao desenvolvimento Full Stack.
+💻 Desenvolvedor Front-End com experiência em React.js, Next.js, JavaScript e TypeScript  
 
-Tenho experiência prática em projetos web utilizando tecnologias modernas como React, Next.js, JavaScript e TypeScript, além de participação em projetos colaborativos voltados para plataformas digitais, dashboards e sistemas web.
+🚀 Focado na criação de interfaces modernas, responsivas e organizadas, buscando sempre melhorar performance e experiência do usuário  
 
-Busco constantemente evolução técnica, aprendizado contínuo e oportunidades para crescer profissionalmente enquanto contribuo com soluções eficientes e organizadas.
+⚙️ Atualmente migrando gradualmente para o desenvolvimento Full Stack, aprofundando conhecimentos em front-end e back-end  
+
+🤝 Facilidade para trabalho em equipe, adaptação a novos desafios e aprendizado contínuo  
+
+🌍 Sempre explorando novas tecnologias e buscando evolução técnica constante
 
 ---
 
@@ -37,67 +42,6 @@ Busco constantemente evolução técnica, aprendizado contínuo e oportunidades 
 * Apoio na automatização de processos internos.
 * Trabalho em conjunto com supervisor para melhoria operacional.
 * Suporte técnico e administrativo.
-
----
-
-## 💻 Desenvolvedor Front-end
-
-### Ninna Hub (Projeto Amontada Valley)
-
-* Desenvolvimento de plataforma SaaS multiempresa.
-* Criação de dashboards e visualização de métricas.
-* Controle de acesso baseado em perfis (RBAC).
-* Desenvolvimento de interfaces responsivas com React.
-* Organização de componentes e estrutura do sistema.
-
----
-
-## 🌍 Desenvolvedor Front-end
-
-### AmoTur (Projeto Amontada Valley)
-
-* Desenvolvimento de portal turístico.
-* Integração de mapas interativos utilizando Leaflet.
-* Integração com APIs.
-* Desenvolvimento com Next.js.
-* Criação de componentes reutilizáveis.
-* Foco em usabilidade e experiência do usuário.
-
----
-
-# 📚 Formação Acadêmica
-
-## 🎓 EEEP Rita Aguiar Barbosa
-
-**Técnico em Redes de Computadores**
-2023 – 2025
-
-## 📖 Amonta Valley
-
-**Front-end Developer** | 2025
-
-## 📖 Full Stack Developer (Em andamento)
-
-Previsão de conclusão: Dezembro de 2026
-
----
-
-# 🌟 Habilidades
-
-* Boa comunicação
-* Trabalho em equipe
-* Organização
-* Facilidade de aprendizado
-* Resolução de problemas
-* Proatividade
-* Adaptabilidade
-* Organização de processos
-
----
-
-# 📈 Objetivo
-
-Atuar na área de desenvolvimento Front-end e tecnologia, contribuindo com soluções modernas, organização de processos e desenvolvimento de aplicações eficientes, enquanto continuo evoluindo técnica e profissionalmente.
 
 ---
 
